@@ -9,3 +9,7 @@ The solution is a simple one - using Flask and VLC Media Player, with an Android
 Who are we? We are three third year ICT students studying at Western Sydney University at the Sydney City Campus. We have our fair share of experience when it comes to making applications. Over the past three years, we have worked extensively on the fundamentals of programming, design, servers and databases - which are key components needed to make this Jukebox application. 
 
 We are very excited for the prospect of working with a proud family-run business like Squashlands Gym and Fitness Centre and are confident in our ability to provide a high quality Jukebox application suitable to your requirements.
+
+
+The system has been worked on by more students, below are some of those projects based on this system:
+https://github.com/Revelrousdust01/Personal-Projects/tree/master/Squashies%20Jukebox
