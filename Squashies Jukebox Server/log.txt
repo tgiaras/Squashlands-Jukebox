@@ -1,0 +1,306 @@
+2020-02-03 20:47 admin created an account (staff, user)
+2020-02-03 20:50 admin removed account for staff
+2020-02-03 20:50 admin created an account (staff, user)
+2020-02-03 20:51 admin removed account for staff
+2020-02-03 20:55 admin created an account (staff, user)
+2020-02-03 20:56 admin removed account for staff
+2020-02-03 20:56 admin created an account (staff, user)
+2020-02-03 20:57 admin removed account for staff
+2020-02-03 20:59 admin created an account (staff, user)
+2020-02-03 20:59 admin removed account for staff
+2020-02-03 20:59 admin changed password for admin
+2020-02-03 21:01 admin changed password for admin
+2020-02-03 21:02 admin changed password for admin
+2020-02-03 21:04 admin changed password for admin
+2020-02-03 21:06 admin logged in
+2020-02-03 21:07 admin logged in
+2020-02-03 21:07 admin logged in
+2020-02-03 21:09 admin logged in
+2020-02-03 21:10 admin logged in
+2020-02-03 21:11 admin logged in
+2020-02-03 21:17 admin created an account (phone, admin)
+2020-02-03 21:28 phone logged in
+2020-02-03 21:51 admin logged in
+2020-02-03 21:52 admin logged in
+2020-02-03 21:53 admin logged in
+2020-02-03 21:54 admin logged in
+2020-02-03 21:55 admin logged in
+2020-02-03 21:59 admin logged in
+2020-02-03 22:11 admin logged in
+2020-02-03 22:35 admin logged in
+2020-02-03 22:47 admin logged in
+2020-02-03 22:47 admin logged in
+2020-02-03 22:55 admin logged in
+2020-02-03 22:57 admin logged in
+2020-02-03 23:00 admin logged in
+2020-02-03 23:11 admin removed Intro from the queue
+2020-02-03 23:11 admin removed South Of The Border from the queue
+2020-02-03 23:11 admin removed Crying In The Club from the queue
+2020-02-03 23:11 admin removed Vibras from the queue
+2020-02-03 23:11 admin removed Greyhound from the queue
+2020-02-03 23:11 admin removed Cold (Radio) from the queue
+2020-02-03 23:11 admin removed Cold (Radio) from the queue
+2020-02-03 23:18 Vibras added to queue by admin
+2020-02-03 23:18 Intro added to queue by admin
+2020-02-03 23:19 South Of The Border added to queue by admin
+2020-02-03 23:31 admin removed Crying In The Club from the queue
+2020-02-03 23:31 admin removed South Of The Border from the queue
+2020-02-03 23:31 admin removed Intro from the queue
+2020-02-03 23:31 admin removed Cold (Radio) from the queue
+2020-02-03 23:31 Greyhound added to queue by admin
+2020-02-03 23:31 Intro added to queue by admin
+2020-02-03 23:32 admin removed Greyhound from the queue
+2020-02-03 23:32 Intro added to queue by admin
+2020-02-03 23:33 admin removed Crying In The Club from the queue
+2020-02-03 23:40 South Of The Border added to queue by admin
+2020-02-03 23:42 admin removed South Of The Border from the queue
+2020-02-03 23:42 admin removed Crying In The Club from the queue
+2020-02-03 23:42 admin removed Cold (Radio) from the queue
+2020-02-03 23:43 admin removed Greyhound from the queue
+2020-02-03 23:43 admin removed Intro from the queue
+2020-02-03 23:43 admin removed Greyhound from the queue
+2020-02-03 23:43 Intro added to queue by admin
+2020-02-03 23:44 admin removed Cold (Radio) from the queue
+2020-02-03 23:44 admin removed Greyhound from the queue
+2020-02-03 23:44 Crying In The Club added to queue by admin
+2020-02-04 00:12 admin logged in
+2020-02-04 01:20 admin logged in
+2020-02-04 01:22 South Of The Border added to queue by admin
+2020-02-04 01:26 Cold (Radio) added to queue by admin
+2020-02-04 01:26 admin removed Vibras from the queue
+2020-02-04 01:26 South Of The Border added to queue by admin
+2020-02-04 01:26 Vibras added to queue by admin
+2020-02-04 01:28 South Of The Border added to queue by admin
+2020-02-04 01:28 Intro added to queue by admin
+2020-02-04 01:28 Cold (Radio) added to queue by admin
+2020-02-04 01:38 admin removed Crying In The Club from the queue
+2020-02-04 01:43 Vibras added to queue by admin
+2020-02-04 01:44 Greyhound added to queue by admin
+2020-02-04 01:44 Crying In The Club added to queue by admin
+2020-02-04 01:44 South Of The Border added to queue by admin
+2020-02-04 01:44 Vibras added to queue by admin
+2020-02-04 02:07 admin logged in
+2020-02-04 02:25 South Of The Border added to queue by admin
+2020-02-04 02:26 Vibras added to queue by admin
+2020-02-04 02:26 South Of The Border added to queue by admin
+2020-02-04 02:26 Cold (Radio) added to queue by admin
+2020-02-04 02:26 admin removed Vibras from the queue
+2020-02-04 02:26 admin removed South Of The Border from the queue
+2020-02-04 02:26 admin removed Cold (Radio) from the queue
+2020-02-04 02:26 admin removed Greyhound from the queue
+2020-02-04 02:26 admin removed Cold (Radio) from the queue
+2020-02-04 02:26 admin removed Vibras from the queue
+2020-02-04 02:26 Intro added to queue by admin
+2020-02-04 02:55 admin logged in
+2020-02-04 03:29 Crying In The Club added to queue by admin
+2020-02-04 03:32 Intro added to queue by admin
+2020-02-04 03:33 Crying In The Club added to queue by admin
+2020-02-04 14:22 admin logged in
+2020-02-04 15:11 admin logged in
+2020-02-04 17:16 admin logged in
+2020-02-04 17:23 admin removed South Of The Border from the queue
+2020-02-04 17:23 admin removed Greyhound from the queue
+2020-02-04 17:23 admin removed Cold (Radio) from the queue
+2020-02-04 17:23 admin removed Freal Luv from the queue
+2020-02-04 17:23 admin removed Good Feeling from the queue
+2020-02-04 17:23 admin removed Rushing Back from the queue
+2020-02-04 17:23 admin removed What A Feeling (Bondiboyz Remix) from the queue
+2020-02-04 17:23 admin removed In My Mind (Axwell Mix) from the queue
+2020-02-04 17:23 admin removed Welcome To The Party from the queue
+2020-02-04 17:23 admin removed Bonkers from the queue
+2020-02-04 17:34 phone logged in
+2020-02-04 17:37 admin removed Squashlands Weights Away from the queue
+2020-02-04 18:43 phone logged in
+2020-02-04 19:29 phone logged in
+2020-02-04 19:30 admin logged in
+2020-02-04 21:11 All I Ever Wanted added to queue by admin
+2020-02-04 21:33 admin removed I Like The Way You Move from the queue
+2020-02-04 21:33 admin removed All I Ever Wanted from the queue
+2020-02-04 21:33 admin removed Vibras from the queue
+2020-02-04 21:33 admin removed 2 On from the queue
+2020-02-04 21:33 admin removed Intro from the queue
+2020-02-04 21:33 admin removed Get Up from the queue
+2020-02-04 21:33 admin removed You Make Me from the queue
+2020-02-04 21:35 admin removed Psycho from the queue
+2020-02-04 21:35 admin removed 2 On from the queue
+2020-02-04 21:35 admin removed In My Mind (Axwell Mix) from the queue
+2020-02-04 21:35 admin removed All I Ever Wanted from the queue
+2020-02-04 21:36 admin removed Get Up from the queue
+2020-02-04 21:36 admin removed Rushing Back from the queue
+2020-02-04 21:36 admin removed Vibras from the queue
+2020-02-04 21:39 admin removed All I Ever Wanted from the queue
+2020-02-04 21:39 admin removed Crying In The Club from the queue
+2020-02-04 21:39 admin removed 2 On from the queue
+2020-02-04 21:39 admin removed Vibras from the queue
+2020-02-04 21:39 admin removed I Like The Way You Move from the queue
+2020-02-04 21:39 admin removed All Day And Night from the queue
+2020-02-04 21:39 admin removed Bananza (Belly Dancer) from the queue
+2020-02-04 21:39 admin removed Rushing Back from the queue
+2020-02-04 21:40 admin removed All Day And Night from the queue
+2020-02-04 21:40 admin removed Vibras from the queue
+2020-02-04 21:40 admin removed Welcome To The Party from the queue
+2020-02-04 21:40 admin removed Cold (Radio) from the queue
+2020-02-04 21:40 admin removed All Day And Night from the queue
+2020-02-04 21:40 admin removed Intro from the queue
+2020-02-04 21:40 admin removed In My Mind (Axwell Mix) from the queue
+2020-02-04 21:40 admin removed I Like The Way You Move from the queue
+2020-02-04 21:45 admin removed Cross Me from the queue
+2020-02-04 21:45 admin removed Good Feeling from the queue
+2020-02-04 21:45 admin removed White Flag from the queue
+2020-02-04 21:45 admin removed I Like The Way You Move from the queue
+2020-02-04 21:52 admin removed Get It Right from the queue
+2020-02-04 21:55 admin removed Good Feeling from the queue
+2020-02-04 21:59 Welcome To The Party added to queue by admin
+2020-02-04 22:08 admin removed Taki Taki from the queue
+2020-02-04 22:09 admin removed Taki Taki from the queue
+2020-02-04 22:10 admin removed Taki Taki from the queue
+2020-02-04 22:13 admin removed Taki Taki from the queue
+2020-02-04 22:15 admin removed Taki Taki from the queue
+2020-02-04 22:16 admin removed Taki Taki from the queue
+2020-02-04 22:16 admin removed Taki Taki from the queue
+2020-02-04 22:17 admin removed Taki Taki from the queue
+2020-02-04 22:18 admin removed Taki Taki from the queue
+2020-02-04 22:19 admin removed Taki Taki from the queue
+2020-02-04 22:24 admin removed Taki Taki from the queue
+2020-02-04 22:25 admin removed Taki Taki from the queue
+2020-02-04 22:26 admin removed Taki Taki from the queue
+2020-02-04 22:27 admin removed Taki Taki from the queue
+2020-02-04 22:29 admin removed Taki Taki from the queue
+2020-02-04 22:31 admin removed Taki Taki from the queue
+2020-02-04 22:35 admin removed Taki Taki from the queue
+2020-02-04 22:37 admin removed Taki Taki from the queue
+2020-02-04 22:42 admin removed Taki Taki from the queue
+2020-02-04 22:45 admin removed Taki Taki from the queue
+2020-02-04 22:45 admin removed Taki Taki from the queue
+2020-02-04 22:48 admin removed Taki Taki from the queue
+2020-02-04 22:48 admin removed Taki Taki from the queue
+2020-02-04 22:50 admin removed Taki Taki from the queue
+2020-02-04 22:51 admin removed Taki Taki from the queue
+2020-02-04 22:52 admin removed Taki Taki from the queue
+2020-02-04 22:53 admin removed Taki Taki from the queue
+2020-02-04 23:10 admin removed Squashlands Towel Usage from the queue
+2020-02-04 23:25 admin removed Taki Taki from the queue
+2020-02-04 23:26 admin removed Taki Taki from the queue
+2020-02-04 23:29 admin removed Taki Taki from the queue
+2020-02-04 23:56 admin logged in
+2020-02-05 00:15 admin logged in
+2020-02-05 00:15 admin logged in
+2020-02-05 01:04 admin logged in
+2020-02-05 10:30 phone logged in
+2020-02-05 10:31 What A Feeling (Bondiboyz Remix) added to queue by kyle
+2020-02-05 10:32 I Like The Way You Move added to queue by 
+2020-02-05 10:33 All I Ever Wanted added to queue by Sash
+2020-02-05 10:33 Get It Right added to queue by hell
+2020-02-05 10:37 phone logged in
+2020-02-05 10:40 I Like The Way You Move added to queue by themis
+2020-02-05 10:47 Freal Luv added to queue by test
+2020-02-05 10:48 admin logged in
+2020-02-05 10:58 admin logged in
+2020-02-05 10:59 White Flag added to queue by admin
+2020-02-05 11:04 Greyhound added to queue by admin
+2020-02-05 11:04 South Of The Border added to queue by admin
+2020-02-05 11:04 Intro added to queue by admin
+2020-02-05 11:04 Cold (Radio) added to queue by admin
+2020-02-05 11:04 Taki Taki added to queue by admin
+2020-02-05 11:06 admin created an account (Dharmjit, user)
+2020-02-05 11:07 admin changed password for Dharmjit
+2020-02-05 11:07 Dharmjit logged in
+2020-02-05 11:07 admin logged in
+2020-02-05 11:07 admin logged in
+2020-02-05 11:07 admin removed account for Dharmjit
+2020-02-05 11:08 admin removed account for phone
+2020-02-05 11:08 admin logged in
+2020-02-05 11:09 admin removed White Flag from the queue
+2020-02-05 11:09 admin removed South Of The Border from the queue
+2020-02-05 11:09 admin removed Intro from the queue
+2020-02-05 11:09 admin removed Cold (Radio) from the queue
+2020-02-05 11:09 admin removed Taki Taki from the queue
+2020-02-05 11:09 admin removed Freal Luv from the queue
+2020-02-05 11:10 Greyhound added to queue by themis
+2020-02-05 11:10 South Of The Border added to queue by dharmjit
+2020-02-05 11:11 Vibras added to queue by josh
+2020-02-05 12:26 admin logged in
+2020-02-05 12:27 Bananza (Belly Dancer) added to queue by admin
+2020-02-05 12:44 admin logged in
+2020-02-05 12:44 What A Feeling (Bondiboyz Remix) added to queue by admin
+2020-02-05 12:45 admin removed Crying In The Club from the queue
+2020-02-05 12:49 admin created an account (Josh, user)
+2020-02-05 12:50 admin changed password for Josh
+2020-02-05 12:50 Josh logged in
+2020-02-05 12:50 admin logged in
+2020-02-05 12:50 admin removed account for Josh
+2020-02-05 12:50 admin logged in
+2020-02-05 12:51 Good Feeling added to queue by admin
+2020-02-05 12:51 South Of The Border added to queue by admin
+2020-02-05 12:51 Cold (Radio) added to queue by admin
+2020-02-05 12:51 Taki Taki added to queue by admin
+2020-02-05 12:51 Vibras added to queue by admin
+2020-02-05 12:55 All I Ever Wanted added to queue by Tehmis
+2020-02-05 14:29 Welcome To The Party added to queue by dagher
+2020-02-05 14:30 admin logged in
+2020-02-05 14:31 What A Feeling (Bondiboyz Remix) added to queue by yh
+2020-02-05 14:34 admin created an account (matthew, user)
+2020-02-05 14:35 admin removed account for matthew
+2020-02-05 14:37 Good Feeling added to queue by ho
+2020-02-05 14:37 2 On added to queue by trst
+2020-02-05 14:37 Vibras added to queue by vy
+2020-02-05 14:42 Bananza (Belly Dancer) added to queue by josh
+2020-02-05 14:42 Taki Taki added to queue by jo
+2020-02-05 14:42 Crying In The Club added to queue by he
+2020-02-05 14:43 I Like The Way You Move added to queue by josh
+2020-02-05 14:43 Good Feeling added to queue by thsmis
+2020-02-05 14:44 Cold (Radio) added to queue by th
+2020-02-06 16:03 admin logged in
+2020-02-06 16:19 admin created an account (themis, user)
+2020-02-06 16:19 admin removed account for themis
+2020-02-06 16:20 admin changed password for admin
+2020-02-06 16:23 admin changed password for admin
+2020-02-06 16:45 admin logged in
+2020-02-06 16:46 Vibras added to queue by admin
+2020-02-06 17:30 admin logged in
+2020-02-06 19:56 admin logged in
+2020-02-06 20:42 admin logged in
+2020-02-06 21:32 admin logged in
+2020-02-06 21:55 admin logged in
+2020-02-07 20:53 admin logged in
+2020-02-07 20:55 admin logged in
+2020-02-07 20:56 Diplo - Get It Right (feat. Mo) (Official Lyric Video)-YjBB89qsupM.mkv added to queue by admin
+2020-02-07 20:56 Akon - Bananza (Belly Dancer)-v9w9mQx7MN4.mkv added to queue by admin
+2020-02-07 20:57 admin logged in
+2020-02-07 21:00 admin logged in
+2020-02-07 21:00 Unforgettable added to queue by admin
+2020-02-07 21:00 Good Feeling added to queue by admin
+2020-02-07 21:03 Little Bad Girl added to queue by admin
+2020-02-07 21:03 Rushing Back added to queue by admin
+2020-02-07 21:03 Bonkers added to queue by admin
+2020-02-07 21:04 Cross Me added to queue by admin
+2020-02-07 21:04 admin created an account (Georgi, admin)
+2020-02-07 21:05 admin removed account for Georgi
+2020-02-07 21:26 admin logged in
+2020-02-07 21:27 Rushing Back added to queue by Rhys
+2020-02-07 21:33 admin logged in
+2020-02-07 21:33 admin logged in
+2020-02-07 21:34 Good Feeling added to queue by admin
+2020-02-07 21:34 Rushing Back added to queue by admin
+2020-02-07 21:34 Freal Luv added to queue by admin
+2020-02-07 21:34 Good Feeling added to queue by admin
+2020-02-07 21:34 admin created an account (Georgi, user)
+2020-02-07 21:34 Georgi logged in
+2020-02-07 21:35 admin logged in
+2020-02-07 21:35 admin removed account for Georgi
+2020-02-07 21:40 Bonkers added to queue by Josh
+2020-02-07 21:40 Little Bad Girl added to queue by Ruth
+2020-02-07 21:43 admin logged in
+2020-02-07 21:43 Cross Me added to queue by admin
+2020-02-07 21:43 Freal Luv added to queue by admin
+2020-02-07 21:43 Little Bad Girl added to queue by admin
+2020-02-07 21:43 Bonkers added to queue by admin
+2020-02-07 21:44 admin created an account (Josh, user)
+2020-02-07 21:44 Josh logged in
+2020-02-07 21:44 admin logged in
+2020-02-07 21:44 admin removed account for Josh
+2020-02-07 21:47 Rushing Back added to queue by Josh
+2020-02-07 21:48 admin removed Good Feeling from the queue
+2020-02-07 21:48 admin removed Rushing Back from the queue
+2020-02-07 21:49 Bonkers added to queue by Josh
+2020-02-07 21:51 admin logged in

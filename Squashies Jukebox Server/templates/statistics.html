@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Squahies Jukebox</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+  <script src="{{ url_for('static', filename = 'js/serverajax.js') }}"></script>
+
+  <script type="text/javascript">
+    
+    function timeout() {
+      location.href='/logout';
+      alert('You were idle for too long');
+    }
+
+    setTimeout(timeout,20*60000);
+
+    function fetchCurrentSong() {
+
+      $.ajax({
+
+        url:'/CurrentSong',
+        type:'get',
+        success: function(response){
+
+          if($('#currentSong').is(':visible')) {
+
+            $('#currentSong').text(response);
+
+          }
+
+        }
+
+      });
+
+    }
+
+    $(document).ready(function(){
+      fetchCurrentSong();
+      setInterval(fetchCurrentSong,10000);
+    })
+
+  </script>
+
+  <style>
+    /* Remove the navbar's default margin-bottom and rounded borders */ 
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+
+    .navbar .navbar-brand img {
+  		height: 50px;
+	 }
+
+  	.navbar .navbar-brand {
+    		padding-top: 0px;
+  	}
+
+    .row.content {
+    	height: 60px
+    }
+
+    .btn {
+    	background: #1977d4;
+    	border: none;
+    }
+    
+    /* Set black background color, white text and some padding */
+    footer {
+      background-color: #222;
+      border: 5px solid #080808;
+      color: white;
+      padding: 15px;
+    }
+
+    body {
+		background: #27292b;
+	 }
+
+   div{
+
+    color: white;
+
+   }
+
+   .my-custom-scrollbar {
+    position: relative;
+    height: 200px;
+    overflow: auto;
+    }
+
+    .table-wrapper-scroll-y {
+    display: block;
+    }
+
+  .table-wrapper-scroll-y{
+
+          margin-bottom: 60px;
+  }
+
+    footer button {
+      width: 25%;
+    }
+
+    @media screen and (max-width: 600px) {
+
+      ul li p {
+
+        padding: 10px 15px;
+        margin-bottom: 0px;
+
+      }
+
+
+      footer{
+        height: 120px;
+      }
+
+      footer button {
+      width: 30%;
+      }
+
+      #currentSong {
+        display: none;
+      }
+
+    
+
+    }
+
+
+  </style>
+</head>
+<body>
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="/Media"><img src="{{ url_for('static', filename='Logo.png') }}"></a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-left">
+        <li><a href="/Media">Media</a></li>
+        <li><a href="/Statistics">Statistics</a></li>
+        <li><a href="/Announcements">Announcements</a></li>
+        <li><a href="/SongRequests">Requests</a></li>
+        <li><a href="/Settings">Settings</a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><p class="navbar-text">{{session['username']}}</p></li>
+        <li><a href="/logout"><span class="glyphicon glyphicon-log-out"></span>Logout</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+  
+<div class="container-fluid text-center">
+
+  <div class="col-sm-4 text-center">
+      <h1>Search Criteria</h1>
+      <br>
+
+      <form action="" method="post">
+
+        From: <input type="datetime-local" name="date1" style="color: black">
+        <br><br>
+        to: <input type="datetime-local" name="date2" style="color: black">
+        <br><br>
+
+
+        <select name="songs" style="color: black">
+          <option value="" disabled selected>Select a song (Optional)</option>
+          {% for song in songs %}
+            <option value="{{song}}">{{song}}</option>
+          {% endfor %}
+          
+        </select> <br> <br>
+
+        <input type="radio" name="query" value="list" checked> List
+        <input type="radio" name="query" value="count"> Count <br><br>
+
+        
+
+        <button type="submit" class="btn btn-info">Submit</button> <br><br>
+      </form>
+      <button class="btn btn-info" onclick="location.href='/DownloadCSVStats'">Download CSV</button>
+
+  </div>
+
+    <div class="col-sm-8 text-center">
+      <h1>Results</h1>
+      <br>
+      {% if count %}
+
+      <h4>Count: {{count}}</h4>
+      <br>
+
+      {% endif %}
+      <div class="table-wrapper-scroll-y my-custom-scrollbar" style="height: 380px;">
+        <table class="table table-bordered mb-0" style="text-align: left; overflow-y:auto;" align="center">
+          <thead>
+            <tr>
+              <th>Song Name</th>
+              <th>Name of Queuer</th>
+              <th>Timestamp</th>
+            </tr>
+          </thead>
+          {% for row in rows %}
+            <tr>
+              <td>{{row[0]}}</td>
+              <td>{{row[1]}}</td>
+              <td>{{row[2]}}</td>
+            </tr>
+          {% endfor %}
+        </table>
+      </div>
+
+    </div>
+
+</div>
+
+<footer class="container-fixed text-center navbar-fixed-bottom" style=" height: 60px">
+  <div class="row content">
+    <div class="col-sm-6 text-center">
+      <span style="font-size: 25px" id="currentSong"></span>
+    </div>
+    <div class="col-sm-6 text-center"> 
+      <button type="button" class="btn btn-info" id="play">
+        <span class="glyphicon glyphicon-play"></span>
+      </button>
+      <button type="button" class="btn btn-info"  id="pause">
+        <span class="glyphicon glyphicon-pause"></span>
+      </button>
+      <button type="button" class="btn btn-info"  id="next"">
+        <span class="glyphicon glyphicon-step-forward"></span>
+      </button>
+    </div>
+  </div>
+
+</body>
+</html>

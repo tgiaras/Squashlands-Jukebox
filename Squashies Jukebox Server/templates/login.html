@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Squahies Jukebox</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <style>
+
+  body {
+    background: #27292b;
+    color: white;
+  }
+
+  form {
+    text-align: center;
+    vertical-align: middle;
+  }
+
+  input[type=text], input[type=password] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    color: black;
+  }
+
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 50%;
+  }
+
+  button:hover {
+    opacity: 0.8;
+  }
+
+  .container {
+    padding: 16px;
+  }
+
+  span.psw {
+    float: right;
+    padding-top: 16px;
+  }
+
+  .btn {
+      background: #1977d4;
+      border: none;
+    }
+
+  .form {
+    width: 50%; 
+    margin-top: 10%;
+  }
+
+  @media screen and (max-width: 600px) {
+  
+    .form{
+       margin-top: 35%;
+       width: 100%;
+    }
+
+    input[type=text], input[type=password] {
+
+      width: 75%;
+
+    }
+
+    button {
+
+      width: 75%;
+
+    }
+
+
+  }
+</style>
+</head>
+<body>
+  
+<div class="container-fixed text-center">    
+
+  <!-- <img src="Logo.png"> -->
+
+  
+  <div class="container text-left form">
+    <form action="" method="post">
+      
+        <h1>Login</h1>
+        <label for="uname"><b>Username</b></label> <br>
+        <input type="text" placeholder="Enter Username" name="uname" required> <br>
+
+        <label for="psw"><b>Password</b></label> <br>
+        <input type="password" placeholder="Enter Password" name="psw" required>
+            
+        <button type="submit" class="btn btn-info">Login</button> <br><br>
+        
+        {% if error %}
+          <p class="text-danger"><strong>Error:</strong> {{ error }}</p><br>
+        {% endif %}
+      
+    </form>
+  </div>
+</div>
+
+</body>
+</html>
